@@ -12,18 +12,47 @@
 **Resident services · IoT monitoring · CCTV · Facility operations · AI-assisted workflows**
 
 <p>
+  <a href="EcoApartment_Final_Report_Corrected.pdf"><img alt="Open final project report" src="https://img.shields.io/badge/📄_FINAL_PROJECT_REPORT-Open_PDF-DC2626?style=for-the-badge"></a>
   <a href="https://ecoapartment-mohan05713.vercel.app/"><img alt="Open preview" src="https://img.shields.io/badge/🚀_LIVE_PREVIEW-Open_Dashboard-0F766E?style=for-the-badge"></a>
 </p>
 
-![Web](https://img.shields.io/badge/Platform-Web%20Application-2563EB?style=flat-square)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Supporting%20Backend-3776AB?style=flat-square&logo=python&logoColor=white)
-
-*A unified apartment-management experience that brings the original EcoApartment dashboard and Smart Operations workspace together.*
-
 </div>
+
+## 🎓 Academic Project Submission
+
+| Detail | Information |
+|---|---|
+| **Course ID** | 21CSC203P |
+| **Course** | Advanced Programming Practices (APP) |
+| **Department** | Computer Science and Engineering (CSE) |
+| **Section** | CSE-D |
+| **Academic Year** | 2025–2029 |
+| **Project Title** | Smart Sustainable Environment Development – EcoApartment |
+| **Team Leader** | Mohan P — RA2511003050226 |
+| **Mentor** | Dr. D. Deena Rose |
+| **Mentor Designation** | Assistant Professor, Department of Computer Science and Engineering |
+| **HOD collaborator email** | hod.cse@ist.srmtrichy.edu.in |
+
+### Project Team
+
+| No. | Student Name | Register Number |
+|---:|---|---|
+| 1 | Mohan P | RA2511003050226 |
+| 2 | Madhuvarshan N | RA2511003050229 |
+| 3 | Jai Mugesh M | RA2511003050213 |
+| 4 | Sham Sudan R | RA2511003050224 |
+
+**Final report:** [EcoApartment Final Report (Corrected PDF)](EcoApartment_Final_Report_Corrected.pdf)
+
+> **Repository file note:** The corrected 46-page PDF has been prepared, but it still needs to be uploaded to the repository root. The report link above will open the PDF after that file is uploaded.
+
+---
+
+## 🚀 Project Links
+
+- [Open the live EcoApartment website](https://ecoapartment-mohan05713.vercel.app/)
+- [Open the backend API (Render)](https://ecoapartment-os-api.onrender.com/)
+- [View the GitHub repository](https://github.com/mohan05713/Eco-Apartment)
 
 ---
 
