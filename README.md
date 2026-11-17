@@ -260,6 +260,35 @@ Planned improvements — these are future goals, not claims that the features ar
 5. Configure authentication, authorization, backups and audit logs before using real resident or financial data.
 6. Review the pull request and deployment before merging.
 
+## 🎓 Academic Project Submission Details
+
+### Course Information
+
+| Field | Details |
+|---|---|
+| Course ID | 21CSC203P |
+| Course Name | Advanced Programming Practices |
+| Subject | APP |
+| Department | Computer Science and Engineering (CSE) |
+| Section | CSE-D |
+| Academic Year | 2025–2029 |
+
+### Team Members
+
+| No. | Full Name | Register Number | Department | Section |
+|---:|---|---|---|---|
+| 1 | Mohan P | RA2511003050226 | CSE | CSE-D |
+| 2 | Madhuvarshan N | RA2511003050229 | CSE | CSE-D |
+| 3 | Jai Mugesh M | RA2511003050213 | CSE | CSE-D |
+| 4 | Sham Sudan R | RA2511003050224 | CSE | CSE-D |
+
+### Mentor Details
+
+| Field | Details |
+|---|---|
+| Mentor's Full Name | Dr. Mani |
+| Designation | Not provided |
+
 ## 🤝 Contributing
 
 1. Create a feature branch.
