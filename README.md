@@ -29,7 +29,7 @@
 | **Academic Year** | 2025–2029 |
 | **Project Title** | Smart Sustainable Environment Development – EcoApartment |
 | **Team Leader** | Mohan P — RA2511003050226 |
-| **Mentor** | Dr. D. Deena Rose |
+| **Mentor** | Dr. Mani |
 | **Mentor Designation** | Assistant Professor, Department of Computer Science and Engineering |
 | **HOD collaborator email** | hod.cse@ist.srmtrichy.edu.in |
 
@@ -315,7 +315,7 @@ Planned improvements — these are future goals, not claims that the features ar
 
 | Field | Details |
 |---|---|
-| Mentor's Full Name | Dr. D. Deena Rose |
+| Mentor's Full Name | Dr. Mani |
 | Designation | Assistant Professor, Department of Computer Science and Engineering |
 
 
