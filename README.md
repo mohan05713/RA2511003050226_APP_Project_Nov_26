@@ -286,8 +286,18 @@ Planned improvements — these are future goals, not claims that the features ar
 
 | Field | Details |
 |---|---|
-| Mentor's Full Name | Dr. Mani |
-| Designation | Not provided |
+| Mentor's Full Name | Dr. D. Deena Rose |
+| Designation | Assistant Professor, Department of Computer Science and Engineering |
+
+
+### GitHub Repository Collaboration
+
+| Requirement | Details | Status |
+|---|---|---|
+| Repository | [mohan05713/Eco-Apartment](https://github.com/mohan05713/Eco-Apartment) | Public |
+| HOD collaborator email | hod.cse@ist.srmtrichy.edu.in | Invitation to be sent and accepted by repository owner |
+| Team member collaborators | Mohan P, Madhuvarshan N, Jai Mugesh M, Sham Sudan R | Teammate invitations will be added separately |
+| Final report PDF | EcoApartment_Final_Report_Corrected.pdf | Corrected copy prepared; upload to repository is pending |
 
 ## 🤝 Contributing
 
